@@ -1,4 +1,4 @@
-from .scp-fr import SCPFR
+from .scpfr import SCPFR
 
 
 def setup(bot):

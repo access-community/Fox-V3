@@ -50,6 +50,8 @@
   - sayurl/*
 'cog: scp':
   - scp/*
+'cog: scpfr':
+  - scpfr/*
 'cog: stealemoji':
   - stealemoji/*
 'cog: timerole':
